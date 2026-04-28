@@ -86,8 +86,4 @@
 
 ## Инструменты
 
-- Python 3.x 
-- pandas, numpy  
-- matplotlib, seaborn  
-- scipy  
-- scikit-learn  
+Python, Pandas, Numpy, Matplotlib, Seaborn, Scipy, Scikit-learn  
